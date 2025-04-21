@@ -1,6 +1,6 @@
 # 🧪 Our Research Group
 
-Welcome to our lab! We explore topics in mmWave sensing, 3D vision, and signal processing.
+Welcome to our lab! We explore topics in mmWave-based sensing, Interactive Perception on Edge Devices, Acoustic Augmented Reality, Human Activity Recognition and Assessment and Data Center Networking and Monitoring.
 
 ## 🔬 Projects
 
