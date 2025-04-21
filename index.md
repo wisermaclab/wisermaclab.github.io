@@ -1,4 +1,4 @@
-# WISER MAC Lab  
+# Wireless System Research Group 
 
 ## 🧪 Our Research Group
 
