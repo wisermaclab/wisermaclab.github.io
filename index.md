@@ -6,11 +6,11 @@ Welcome to our lab! We explore topics in mmWave-based sensing, Interactive Perce
 
 ## 🔬 Active Projects
 
-- [Virtual and Augmented Acoustic Reality](https://github.com/wisermaclab/CROMOSIM)
-- [mmWave-based Continuous Monitoring](https://github.com/wisermaclab/hgot)
-- [Conversational AI chatbot for old adult mobility](https://github.com/wisermaclab/AudiometryApp)
-- [Edge video analytics](https://github.com/wisermaclab/AudiometryApp)
-- [Multi-modal human motion synthesizing and understanding](https://github.com/wisermaclab/AudiometryApp)
+- [Virtual and Augmented Acoustic Reality](https://github.com/wisermaclab/Virtual-and-Augmented-Acoustic-Reality)
+- [mmWave-based Continuous Monitoring](https://github.com/wisermaclab/mmWave-based-Continuous-Monitoring)
+- [Conversational AI chatbot for old adult mobility](https://github.com/wisermaclab/Conversational-AI-chatbot-for-old-adult-mobility)
+- [Edge video analytics](https://github.com/wisermaclab/Edge-video-analytics)
+- [Multi-modal human motion synthesizing and understanding](https://github.com/wisermaclab/Multi-modal-human-motion-synthesizing-and-understanding)
 
 ## 📄 Publications
 
