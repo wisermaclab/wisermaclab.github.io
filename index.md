@@ -1,4 +1,4 @@
-# <span style="color:red">Wireless System</span> Research Group 
+# <span style="color:#f28b82">Wireless System</span> Research Group 
 
 ## 🧪 Our Research Group
 
