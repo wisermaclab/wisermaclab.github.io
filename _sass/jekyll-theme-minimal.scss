@@ -284,3 +284,26 @@ footer {
     color:#444;
   }
 }
+.nav-tabs {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.nav-tabs a {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f4f4f4;
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+.nav-tabs a:hover {
+  background-color: #e0e0e0;
+  color: #000;
+}
