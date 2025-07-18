@@ -2,7 +2,11 @@
 
 ## 🧪 Our Research Group
 
-Welcome to our lab! We explore topics in mmWave-based sensing, Interactive Perception on Edge Devices, Acoustic Augmented Reality, Human Activity Recognition and Assessment and Data Center Networking and Monitoring.
+The Wireless System Research Group (WiSeR) at McMaster University (previously WiSeR@UH) conducts research of social impacts on a variety of communication, networking, data analytics and system issues in Cyber Physical Systems and social networks.
+
+Our focus is on advancing the fundamental understanding and development of efficient robust solutions. Our projects span core system building blocks, data and network management tools and services, mathematical principles, and application of wireless communication and networking to scientific, industrial and health-care disciplines.
+
+Our research has been supported by NSERC, NSF, UH GEAR, and DURIP.
 
 ## 🔬 Active Projects
 
