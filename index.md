@@ -12,13 +12,13 @@ Our research has been supported by NSERC, NSF, UH GEAR, and DURIP.
  </div>
  <div class="column">
 🔬 Active Projects
-
-- [Virtual and Augmented Acoustic Reality](https://github.com/wisermaclab/Virtual-and-Augmented-Acoustic-Reality)
-- [mmWave-based Continuous Monitoring](https://github.com/wisermaclab/mmWave-based-Continuous-Monitoring)
-- [Conversational AI chatbot for old adult mobility](https://github.com/wisermaclab/Conversational-AI-chatbot-for-old-adult-mobility)
-- [Edge video analytics](https://github.com/wisermaclab/Edge-video-analytics)
-- [Multi-modal human motion synthesizing and understanding](https://github.com/wisermaclab/Multi-modal-human-motion-synthesizing-and-understanding)
-
+<ul>
+  <li><a href="https://github.com/wisermaclab/Virtual-and-Augmented-Acoustic-Reality" target="_blank">Virtual and Augmented Acoustic Reality</a></li>
+  <li><a href="https://github.com/wisermaclab/mmWave-based-Continuous-Monitoring" target="_blank">mmWave-based Continuous Monitoring</a></li>
+  <li><a href="https://github.com/wisermaclab/Conversational-AI-chatbot-for-old-adult-mobility" target="_blank">Conversational AI chatbot for old adult mobility</a></li>
+  <li><a href="https://github.com/wisermaclab/Edge-video-analytics" target="_blank">Edge video analytics</a></li>
+  <li><a href="https://github.com/wisermaclab/Multi-modal-human-motion-synthesizing-and-understanding" target="_blank">Multi-modal human motion synthesizing and understanding</a></li>
+</ul>
   </div>
 </div>
 
