@@ -11,7 +11,7 @@
 <p>Our research has been supported by NSERC, NSF, UH GEAR, and DURIP.</p>
  </div>
  <div class="column">
-🔬 Active Projects
+<h1> Active Projects </h1>
 <ul>
   <li><a href="https://github.com/wisermaclab/Virtual-and-Augmented-Acoustic-Reality" target="_blank">Virtual and Augmented Acoustic Reality</a></li>
   <li><a href="https://github.com/wisermaclab/mmWave-based-Continuous-Monitoring" target="_blank">mmWave-based Continuous Monitoring</a></li>
