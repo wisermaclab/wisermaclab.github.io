@@ -2,13 +2,13 @@
 
 <div class="columns">
    <div class="column">
- 🧪 Our Research Group
+ <h1>🧪 Our Research Group </h1>
 
-The Wireless System Research Group (WiSeR) at McMaster University (previously WiSeR@UH) conducts research of social impacts on a variety of communication, networking, data analytics and system issues in Cyber Physical Systems and social networks.
+<p>The Wireless System Research Group (WiSeR) at McMaster University (previously WiSeR@UH) conducts research of social impacts on a variety of communication, networking, data analytics and system issues in Cyber Physical Systems and social networks.</p>
 
-Our focus is on advancing the fundamental understanding and development of efficient robust solutions. Our projects span core system building blocks, data and network management tools and services, mathematical principles, and application of wireless communication and networking to scientific, industrial and health-care disciplines.
+<p>Our focus is on advancing the fundamental understanding and development of efficient robust solutions. Our projects span core system building blocks, data and network management tools and services, mathematical principles, and application of wireless communication and networking to scientific, industrial and health-care disciplines.</p>
 
-Our research has been supported by NSERC, NSF, UH GEAR, and DURIP.
+<p>Our research has been supported by NSERC, NSF, UH GEAR, and DURIP.</p>
  </div>
  <div class="column">
 🔬 Active Projects
