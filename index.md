@@ -13,7 +13,7 @@
  <div class="column">
 <h1> 🔬 Active Projects </h1>
 <ul>
-  <li><a href="https://github.com/wisermaclab/Virtual-and-Augmented-Acoustic-Reality" target="_blank">Virtual and Augmented Acoustic Reality</a></li>
+  <li><a href="https://wisermaclab.github.io/Virtual_and_Augmented_Acoustic_Reality" target="_blank">Virtual and Augmented Acoustic Reality</a></li>
   <li><a href="https://github.com/wisermaclab/mmWave-based-Continuous-Monitoring" target="_blank">mmWave-based Continuous Monitoring</a></li>
   <li><a href="https://github.com/wisermaclab/Conversational-AI-chatbot-for-old-adult-mobility" target="_blank">Conversational AI chatbot for old adult mobility</a></li>
   <li><a href="https://github.com/wisermaclab/Edge-video-analytics" target="_blank">Edge video analytics</a></li>
