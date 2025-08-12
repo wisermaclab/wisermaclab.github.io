@@ -47,7 +47,13 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#069;header {
+  width:270px;
+  margin-left: 300px;
+  float:left;
+  position:relative;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
   font-weight: bold;
 }
 
@@ -128,8 +134,9 @@ kbd {
 
 header {
   width:270px;
+  margin-left: 300px;
   float:left;
-  position:fixed;
+  position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 .nav-tabs {
@@ -218,8 +225,8 @@ strong {
 
 section {
   clear: both;
-  margin-left: 300px;;
-  margin-right: 300px;
+  margin-left: 15%;;
+  margin-right: 15%;
   float:none;
   padding-bottom:50px;
 }
@@ -288,7 +295,8 @@ footer {
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap:br15%;eak-word;
+    word-wrap:br15%;
+    break-word;
   }
 
   header {
