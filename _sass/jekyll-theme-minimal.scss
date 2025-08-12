@@ -48,7 +48,7 @@ a {
 
 a:hover, a:focus {
   color:#069;header {
-  width:270px;
+  width:270px;word-wrap:break-word;
   margin-left: 300px;
   float:left;
   position:relative;
@@ -199,7 +199,7 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;15
+  color:#675C5C;
   font-weight:bold;
 }
 
@@ -225,8 +225,8 @@ strong {
 
 section {
   clear: both;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 300px;
+  margin-right: 300px;
   float:none;
   padding-bottom:50px;
 }
