@@ -128,7 +128,7 @@ kbd {
 
 header {
   width:270px;
-  margin-left: 300px;
+  margin-left: 15%;
   float:left;
   
   position:relative;
@@ -291,7 +291,7 @@ footer {
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap:break-word;
+    word-wrap:br15%;eak-word;
   }
 
   header {
