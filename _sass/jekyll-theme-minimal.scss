@@ -225,7 +225,7 @@ strong {
 
 section {
   clear: both;
-  margin-left: 15%;;
+  margin-left: 15%;
   margin-right: 15%;
   float:none;
   padding-bottom:50px;
@@ -295,8 +295,7 @@ footer {
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap:br15%;
-    break-word;
+    word-wrap:break-word;
   }
 
   header {
