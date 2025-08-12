@@ -128,13 +128,10 @@ kbd {
 
 header {
   width:270px;
-  margin-left: 300px;
   float:left;
-  
-  position:relative;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
 .nav-tabs {
   position: absolute;
   top: 100px; /* Adjust based on your logo height */
