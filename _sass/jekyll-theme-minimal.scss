@@ -128,8 +128,8 @@ kbd {
 
 header {
   width:270px;
-  margin-left: 15%;
-  float:none;
+  margin-left: 300px;
+  float:left;
   
   position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -195,7 +195,7 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;
+  color:#675C5C;15
   font-weight:bold;
 }
 
@@ -221,8 +221,8 @@ strong {
 
 section {
   clear: both;
-  margin-left: 15%;;
-  margin-right: 15%;
+  margin-left: 300px;;
+  margin-right: 300px;
   float:none;
   padding-bottom:50px;
 }
