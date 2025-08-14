@@ -319,7 +319,7 @@ footer {
     width:auto;
   }
 
-  header {
+  header { left: 100%;   /* start right after the header ends */
     margin-left: 5%;
     width:60%;
     margin-right:10px;
