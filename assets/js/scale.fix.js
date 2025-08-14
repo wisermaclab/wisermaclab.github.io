@@ -24,4 +24,7 @@
         document.addEventListener("touchstart", gestureStart, false);
         document.addEventListener("touchend", gestureEnd, false);
     }
+function toggleMenu() {
+  document.querySelector('.nav-tabs').classList.toggle('show');
+}
 })(document);
