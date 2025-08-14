@@ -269,6 +269,20 @@ footer {
     display: inline-block;
     margin-bottom: 10px;
   }
+  .nav-tabs {
+    display: none;
+    flex-direction: column;
+    background: white;
+    position: absolute;
+    top: 50px; /* Adjust depending on your header height */
+    left: 0;
+    right: 0;
+    padding: 10px;
+  }
+
+  .nav-tabs.show {
+    display: flex;
+  }
 
   div.wrapper {
     width:auto;
