@@ -299,11 +299,18 @@ footer {
   }
 
   div.wrapper {
+    position: relative;
     width:auto;
-    display: flex;
-    align-items: center; /* vertical align */
     margin:0;
   }
+
+
+.menu-wrapper {
+  position: absolute;
+  left: 100%;   /* start right after the header ends */
+  margin-left: 20px; /* space gap */
+  top: 0;
+}
 
   header, section, footer {
     float:none;
