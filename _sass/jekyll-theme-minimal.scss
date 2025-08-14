@@ -250,6 +250,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 .columns {
+  display: none;
   display: flex;
   gap: 40px;
 }
