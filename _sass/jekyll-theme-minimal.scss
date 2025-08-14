@@ -300,6 +300,8 @@ footer {
 
   div.wrapper {
     width:auto;
+    display: flex;
+    align-items: center; /* vertical align *
     margin:0;
   }
 
@@ -310,7 +312,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    margin-right:320px;
   }
 
   section {
