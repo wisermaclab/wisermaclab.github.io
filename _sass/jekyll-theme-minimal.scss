@@ -265,6 +265,11 @@ footer {
 
 @media print, screen and (max-width: 960px) {
 
+  .menu-icon {
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+
   div.wrapper {
     width:auto;
     margin:0;
@@ -299,10 +304,7 @@ footer {
 }
 
 @media print, screen and (max-width: 720px) {
-  .menu-icon {
-    display: inline-block;
-    margin-bottom: 10px;
-  }
+
   body {
     word-wrap:break-word;
   }
@@ -321,10 +323,7 @@ footer {
 }
 
 @media print, screen and (max-width: 480px) {
-  .menu-icon {
-    display: inline-block;
-    margin-bottom: 10px;
-  }
+
   body {
     padding:15px;
   }
