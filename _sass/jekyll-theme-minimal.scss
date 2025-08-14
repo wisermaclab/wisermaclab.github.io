@@ -21,11 +21,16 @@ p, ul, ol, table, pre, dl {
 p,ul{
   font-size:20px;
 }
+p.view{
+  font-size:10px;
+}
 li {
   margin-bottom: 10px;
 }
 
-h1, h2, h3 {
+h1, h2, h3 {p,ul{
+  font-size:20px;
+}
   line-height:1.1;
 }
 
