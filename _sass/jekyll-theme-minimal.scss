@@ -289,8 +289,7 @@ footer {
     background: white;
     position: absolute;
     top: 50px; /* Adjust depending on your header height */
-    left: 0;
-    right: 0;
+    right: 100%; /* push it fully to the left of the icon */
     padding: 10px;
   }
 
