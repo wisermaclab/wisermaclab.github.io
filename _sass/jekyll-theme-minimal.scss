@@ -308,18 +308,19 @@ footer {
 .menu-wrapper {
   position: absolute;
   left: 100%;   /* start right after the header ends */
-  margin-left: 20px; /* space gap */
+  margin-left: 10px; /* space gap */
   top: 0;
 }
 
-  header, section, footer {
+ section, footer {
     float:none;
     position:static;
     width:auto;
   }
 
   header {
-    margin-right:20px;
+    width:30%;
+    margin-right:10px;
   }
 
   section {
