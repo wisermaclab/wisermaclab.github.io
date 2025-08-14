@@ -250,7 +250,6 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 .columns {
-  display: none;
   display: flex;
   gap: 40px;
 }
@@ -259,6 +258,7 @@ footer {
   flex: 1;
 }
 .menu-icon {
+  display: none;
   font-size: 1.5em;
   cursor: pointer;
 }
