@@ -269,6 +269,9 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
+.columns{
+  flex-direction: column
+  }
 
 .menu-icon {
   position: absolute;
