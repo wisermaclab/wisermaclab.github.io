@@ -240,6 +240,8 @@ section {
 section img.my-banner{
   margin:0;
   width: 100vw;
+  margin-left: calc(-16%); /* cancel out section margin */
+  margin-right: calc(-16%); /* cancel out section margin */
   display: block;
 
 }
