@@ -242,12 +242,11 @@ section {
 }
 
 section img.my-banner{
-  max-width: none;
-  width: 100%;
-  display: block;
-  height:15%;
-  
-
+  display: block;       /* removes inline-gap */
+  width: 100vw;         /* full viewport width */
+  max-width: none;      /* prevent parent constraint */
+  margin-left: calc(-16%); /* cancel section's left margin */
+  margin-right: calc(-16%);/* cancel section's right margin */
 }
 small {
   font-size:11px;
