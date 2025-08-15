@@ -1,5 +1,7 @@
 # <span style="color:#f25b72">Wireless System</span> Research Group 
+<div class="banner-con">
  <img src="/assets/banner.jpg" class="my-banner" alt="Website banner" />
+</div>
 <div class="columns">
    <div class="column">
  <h1>🧪 Our Research Group </h1>
