@@ -140,7 +140,7 @@ kbd {
 
 header {
   width:15%;
-  margin-left: 0%;
+  margin-left: 15%;
   float:left;
   position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -239,7 +239,7 @@ section {
 
 section img.my-banner{
   margin:0;
-  max-width: 150%; 
+  max-width: 132%; 
   width: 100vw;
   margin-left:calc(-16%); /* cancel out section margin */
   margin-right: 0; /* cancel out section margin */
