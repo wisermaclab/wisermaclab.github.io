@@ -36,8 +36,9 @@ function toggleMenu() {
 document.addEventListener('DOMContentLoaded', () => {
   const section = document.querySelector('section');
   const banner = document.querySelector('img.my-banner');
-
+  console.log("toggleMenu was invoked!"); // Debug message
   if (section && banner) {
+    console.log("toggleMenu was called!"); // Debug message
     const sectionRect = section.getBoundingClientRect();
     const viewportWidth = window.innerWidth;
 
