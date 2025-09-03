@@ -29,4 +29,23 @@
 
 function toggleMenu() {
   document.querySelector('.nav-tabs').classList.toggle('show');
+
+
+
+
+document.addEventListener('DOMContentLoaded', () => {
+  const section = document.querySelector('section');
+  const banner = document.querySelector('img.my-banner');
+
+  if (section && banner) {
+    const sectionRect = section.getBoundingClientRect();
+    const viewportWidth = window.innerWidth;
+
+    // Make banner exactly viewport width
+    banner.style.width = viewportWidth + 'px';
+
+    // Shift it left so its left edge aligns with the viewport's left edge
+    banner.style.marginLeft = -(sectionRect.left) + 'px';
+  }
+});
 }
