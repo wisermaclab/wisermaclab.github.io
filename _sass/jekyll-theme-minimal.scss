@@ -241,8 +241,8 @@ section img.my-banner{
   display: block;       /* removes inline-gap */
   width: 100vw;         /* full viewport width */
   max-width: none;      /* prevent parent constraint */
-  margin-left: calc(-16%); /* cancel section's left margin */
-  margin-right: calc(-16%);/* cancel section's right margin */
+  position: relative;
+  left: calc(-1 * var(--section-margin-left, 0px));
 }
 small {
   font-size:11px;
