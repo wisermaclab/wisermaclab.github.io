@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const viewportWidth = window.innerWidth;
 
     // Make banner exactly viewport width
-    banner.style.width = viewportWidth + 'px';
+    // banner.style.width = viewportWidth + 'px';
 
     // Shift it left so its left edge aligns with the viewport's left edge
     banner.style.marginLeft = -(sectionRect.left) + 'px';
