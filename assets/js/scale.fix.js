@@ -29,7 +29,7 @@
 
 function toggleMenu() {
   document.querySelector('.nav-tabs').classList.toggle('show');
-
+}
 
 
 
@@ -49,4 +49,4 @@ document.addEventListener('DOMContentLoaded', () => {
     banner.style.marginLeft = -(sectionRect.left) + 'px';
   }
 });
-}
+
