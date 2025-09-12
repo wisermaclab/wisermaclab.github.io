@@ -33,7 +33,7 @@ function toggleMenu() {
 
 
 
-document.addEventListener('DOMContentLoaded', () => {
+/*document.addEventListener('DOMContentLoaded', () => {
   const section = document.querySelector('section');
   const banner = document.querySelector('img.my-banner');
   console.log("toggleMenu was invoked!"); // Debug message
@@ -48,5 +48,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Shift it left so its left edge aligns with the viewport's left edge
     banner.style.marginLeft = -(sectionRect.left) + 'px';
   }
-});
+}*/
+);
 
