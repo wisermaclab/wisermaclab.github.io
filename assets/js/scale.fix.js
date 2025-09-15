@@ -48,6 +48,6 @@ function toggleMenu() {
     // Shift it left so its left edge aligns with the viewport's left edge
     banner.style.marginLeft = -(sectionRect.left) + 'px';
   }
-}*/
-);
+}
+);*/
 
