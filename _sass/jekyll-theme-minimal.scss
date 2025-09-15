@@ -236,14 +236,19 @@ section {
   padding-bottom:50px;
 }
 
+section.banner-section {
+  margin: 0;          /* no left/right margin */
+  padding: 0;         
+  float: none;        
+  clear: both;        
+}
 
 section img.my-banner{
-  display: block;       /* removes inline-gap */
-  width: 100vw;         /* full viewport width */
-  max-width: none;      /* prevent parent constraint */
-  position: relative;
-  left: calc(-1 * var(--section-margin-left, 0px));
+  display: block;
+  width: 100%;
+  height: auto;       
 }
+  
 small {
   font-size:11px;
 }
