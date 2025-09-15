@@ -49,6 +49,15 @@
             
         </nav>
        <img src="/assets/banner.jpg" alt="Website banner" />
+
+      {% if page.url == "/" %}
+      <section class="banner-section">
+      <img src="/assets/banner.jpg" class="my-banner" alt="Website banner" />
+      </section>
+      {% else %}
+      <!-- no banner shown -->
+      {% endif %}
+      
       <section>
 
       {{ content }}
