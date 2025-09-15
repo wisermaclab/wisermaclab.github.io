@@ -1,4 +1,4 @@
-# <span style="color:#f25b72">Wireless System</span> Research Group 
+<!--# <span style="color:#f25b72">Wireless System</span> Research Group -->
  <img src="/assets/banner.jpg" class="my-banner" alt="Website banner" />
 
 <div class="columns">
