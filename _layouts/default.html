@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header>
         <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
-
+        <div class="header-top">
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -35,6 +35,8 @@
 
         
         <div class="menu-icon" onclick="toggleMenu()">&#9776;</div>
+        </div>
+        <div class="header-bottom">
       <nav class="nav-tabs">
             
             <a href="https://wiser.cas.mcmaster.ca/">Home</a>
@@ -45,6 +47,7 @@
             <a href="https://wiser.cas.mcmaster.ca/?page_id=202">News</a>
             
         </nav>
+        </div>
       </header>
 
       
