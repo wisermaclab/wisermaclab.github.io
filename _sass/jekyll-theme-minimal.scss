@@ -134,14 +134,18 @@ kbd {
 }
 
 header {
-  width:16%;
+  width:auto;
   margin-left: 15%;
   float:left;
   position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+header img{ 
+    width:10%;
+    margin-right:10px;
+  }
 .nav-tabs {
-  position: absolute;
+ 
   top: 50px; /* Adjust based on your logo height */
   left: 55%; /* Push to the right of the logo */
   display: flex;
