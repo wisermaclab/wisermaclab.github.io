@@ -155,7 +155,7 @@ header img{
 .nav-tabs {
  
   display: flex;
-  gap: 30px; /* space between each link */
+  /*gap: 30px; /* space between each link */ */
   justify-content: flex-end;
   margin-right: 22%;
   background: transparent;
@@ -164,11 +164,12 @@ header img{
 .nav-tabs a {
   color: #393939;
   display: block;               /* Entire block clickable */
+  padding: 0px 15px; /* enlarge clickable area */
   font: 18px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
   text-decoration: none;        /* Remove default underline */
   font-weight: 300;
-  border-bottom: 4px solid #FFF;
+  border-bottom: 4px solid transparent;
 }
 
 .nav-tabs a:hover {
