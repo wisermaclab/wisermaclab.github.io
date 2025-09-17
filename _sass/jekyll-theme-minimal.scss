@@ -136,24 +136,27 @@ kbd {
 header {
   width:auto;
   margin-left: 18%;
-  float:left;
   position:relative;
   display: flex;
-  align-items: flex-end; /* aligns nav tabs with bottom of logo */
-  justify-content: space-between;
-  padding: 10px 20px;
+  flex-direction: column;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 header img{ 
     width:20%;
     margin-right:10px;
   }
+
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* logo left, hamburger right */
+  padding: 10px 20px;
+}
 .nav-tabs {
  
   display: flex;
   gap: 20px; /* space between each link */
-  margin-left: auto; /* pushes nav to the right */
-  justify-content: space-around;
+  justify-content: flex-end;
   background: transparent;
   padding: 10px;
 }
