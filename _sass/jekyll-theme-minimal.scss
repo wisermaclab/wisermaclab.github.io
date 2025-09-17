@@ -143,6 +143,7 @@ header {
 }
 header img{ 
     width:18%;
+    aspect-ratio: 100 / 90;     /* width : height = 100 : 90  (or 10/9) */
     margin-right:10px;
     margin-top:10px;
   }
