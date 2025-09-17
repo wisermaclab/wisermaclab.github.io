@@ -136,6 +136,7 @@ kbd {
 header {
   width:auto;
   margin-left: 18%;
+  float:left;
   position:relative;
   display: flex;
   align-items: flex-end; /* aligns nav tabs with bottom of logo */
@@ -144,7 +145,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 header img{ 
-    width:21%;
+    width:20%;
     margin-right:10px;
   }
 .nav-tabs {
