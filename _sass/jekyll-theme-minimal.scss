@@ -150,13 +150,13 @@ header img{
   display: flex;
   align-items: center;
   justify-content: space-between; /* logo left, hamburger right */
-  padding: 10px 20px;
 }
 .nav-tabs {
  
   display: flex;
   gap: 20px; /* space between each link */
   justify-content: flex-end;
+  margin-right: 18%;
   background: transparent;
   padding: 10px;
 }
