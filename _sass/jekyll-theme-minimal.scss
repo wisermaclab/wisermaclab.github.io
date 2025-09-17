@@ -138,17 +138,21 @@ header {
   margin-left: 15%;
   float:left;
   position:relative;
+  display: flex;
+  align-items: flex-end; /* aligns nav tabs with bottom of logo */
+  justify-content: space-between;
+  padding: 10px 20px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 header img{ 
-    width:40%;
+    width:30%;
     margin-right:10px;
   }
 .nav-tabs {
  
-  top: 50px; /* Adjust based on your logo height */
-  left: 55%; /* Push to the right of the logo */
   display: flex;
+  gap: 20px; /* space between each link */
+  margin-left: auto; /* pushes nav to the right */
   justify-content: space-around;
   background: transparent;
   padding: 10px;
