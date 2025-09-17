@@ -144,6 +144,7 @@ header {
 header img{ 
     width:18%;
     margin-right:10px;
+    margin-top:10px;
   }
 
 .header-top {
@@ -154,7 +155,7 @@ header img{
 .nav-tabs {
  
   display: flex;
-  gap: 20px; /* space between each link */
+  gap: 100px; /* space between each link */
   justify-content: flex-end;
   margin-right: 25%;
   background: transparent;
