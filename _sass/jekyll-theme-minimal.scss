@@ -296,7 +296,7 @@ footer {
 
 section img.my-banner{
   display: block;
-  width: 100%;
+  width: 100vw;
   height: 30vh;       /* 60% of viewport height */; 
   
 }
@@ -322,7 +322,6 @@ section img.my-banner{
     flex-direction: column;
     background: white;
     position: absolute;
-    top: 60px; /* Adjust depending on your header height */
     width: 100%;
     left: 0;
     padding: 10px;
