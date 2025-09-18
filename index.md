@@ -2,7 +2,7 @@
 
 <div class="columns">
  <div class="column">
-<h1> 🔬 Active Projects </h1>
+<h1 class='header_h1'> 🔬 Active Projects </h1>
 <ul>
   <li><a href="https://wisermaclab.github.io/Virtual_and_Augmented_Acoustic_Reality" target="_blank">Virtual and Augmented Acoustic Reality</a></li>
   <li><a href="https://wisermaclab.github.io/mmWave-based-Continuous-Monitoring" target="_blank">mmWave-based Continuous Monitoring</a></li>
