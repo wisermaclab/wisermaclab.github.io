@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
@@ -33,14 +33,16 @@ p,ul{
   line-height:1.1;
 }
 
-h1 {
+h1.page_title {
   color:#3f5876;
-  font-size:28px;
-  margin:0 0 20px;
+  font-size:40px;
+  font-weight:600;
 }
 
 h1.header_h1{
   color:#222;
+  font-size:32px;
+  font-weight:600;
 }
 
 h2 {
