@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
@@ -29,14 +29,17 @@ li {
   margin-bottom: 10px;
 }
 
-h1, h2, h3 {p,ul{
-  font-size:20px;
-}
+p,ul{
   line-height:1.1;
 }
 
 h1 {
+  color:#3f5876;
   font-size:28px;
+}
+
+h1.header_h1{
+  color:#222;
 }
 
 h2 {
