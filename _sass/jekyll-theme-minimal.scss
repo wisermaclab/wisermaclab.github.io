@@ -150,7 +150,7 @@ header img{
 .header-top {
   display: flex;
   align-items: center;
-  justify-content: space-between; /* logo left, hamburger right */
+  justify-content: space-between; /* logo left, menu icon right */
 }
 .nav-tabs {
  
@@ -293,6 +293,13 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
+
+section img.my-banner{
+  display: block;
+  width: 100%;
+  height: 30vh;       /* 60% of viewport height */; 
+  
+}
 .columns{
   flex-direction: column
   }
