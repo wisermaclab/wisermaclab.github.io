@@ -318,10 +318,9 @@ section img.my-banner{
   border-radius: 4px;
 }
   .nav-tabs {
-    display: flex;
+    display: none;
     flex-direction: column;
     background: white;
-    position: absolute;
     width: 100%;
     left: 0;
     padding: 10px;
