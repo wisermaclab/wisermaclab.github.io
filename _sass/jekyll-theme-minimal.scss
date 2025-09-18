@@ -318,7 +318,7 @@ section img.my-banner{
   border-radius: 4px;
 }
   .nav-tabs {
-    display: none;
+    display: flex;
     flex-direction: column;
     background: white;
     position: absolute;
