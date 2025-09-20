@@ -1,0 +1,33 @@
+
+@import "fonts";
+@import "rouge-github";
+
+.columns_page {
+  display: flex;
+  gap: 40px;
+}
+
+.column_nav {
+  flex: 1;
+}
+.column_content {
+  flex: 4;
+}
+@media print, screen and (max-width: 960px) {
+
+
+}
+
+@media print, screen and (max-width: 720px) {
+
+ 
+}
+
+@media print, screen and (max-width: 480px) {
+
+
+}
+
+@media print {
+
+}
