@@ -245,8 +245,8 @@ strong {
 
 section {
   clear: both;
-  margin-left: 16%;
-  margin-right: 16%;
+  margin-left: 10%;
+  margin-right: 10%;
   float:none;
   padding-bottom:50px;
   padding-top:4vh;
@@ -296,6 +296,9 @@ footer {
   display: none;
   font-size: 1.5em;
   cursor: pointer;
+}
+.header_padding{
+  padding 6% 0px;
 }
 
 @media print, screen and (max-width: 960px) {
