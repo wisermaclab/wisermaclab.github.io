@@ -10,10 +10,10 @@
 .column_nav {
   flex: 1;
   position: sticky;
-  align-self: start;
+  align-self: flex-start;
 }
 .column_content {
-  flex: 4;
+  flex: 3;
 }
 ul.pagenav_list{
   list-style-image: url("/assets/page.png");
