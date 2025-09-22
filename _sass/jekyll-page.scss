@@ -14,6 +14,9 @@
 .column_content {
   flex: 4;
 }
+.pagenav_list{
+  list-style-image: url("/assets/page.png");
+}
 @media print, screen and (max-width: 960px) {
 
 
