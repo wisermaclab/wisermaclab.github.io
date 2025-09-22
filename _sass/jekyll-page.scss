@@ -14,10 +14,18 @@
 .column_content {
   flex: 4;
 }
-.pagenav_list{
+ul.pagenav_list{
   list-style-image: url("/assets/page.png");
+  font-size:14px;
 }
-
+ul.pagenav_list a
+  color:#566e8b;
+  border-bottom: none;
+}
+ul.pagenav_list a:hover
+  color:#4a8eff;
+  border-bottom: none;
+}
 h1.page_title {
   color:#3f5876;
   font-weight:600;
