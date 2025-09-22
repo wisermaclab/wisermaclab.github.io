@@ -5,11 +5,12 @@
 
 
 <h3>Table of Contents </h3>
-  <ol>
-    <li><a href="#intro">Objectives</a></li>
-    <li><a href="#methods">Participant</a></li>
-    <li><a href="#results">Research Thrusts</a></li>
-    <li><a href="#results">Publications</a></li>
+  <ol class='page_guide'>
+    <li><a href="#Objectives">Objectives</a></li>
+    <li><a href="#Participant">Participant</a></li>
+    <li><a href="#Research">Research Thrusts</a></li>
+    <li><a href="#Acknowledgment">Publications</a></li>
+    <li><a href="#Downloads">Downloads</a></li>
   </ol>
 </div>
 
@@ -18,3 +19,4 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
 <h1> Participant </h1>
 <h1> Research </h1>
 <h1> Acknowledgment </h1>
+<h1> Downloads </h1>
