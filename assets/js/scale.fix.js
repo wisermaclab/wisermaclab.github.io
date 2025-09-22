@@ -31,6 +31,16 @@ function toggleMenu() {
   document.querySelector('.nav-tabs').classList.toggle('show');
 }
 
+document.querySelectorAll('.page_guide a').forEach(link => {
+  link.addEventListener('click', e => {
+    e.preventDefault();
+    const id = link.getAttribute('href').slice(1); // remove #
+    const target = document.getElementById(id);
+    if (target) {
+      target.scrollIntoView({behavior:'smooth'});
+    }
+  });
+});
 
 
 /*document.addEventListener('DOMContentLoaded', () => {
