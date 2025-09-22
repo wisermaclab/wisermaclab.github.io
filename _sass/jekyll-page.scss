@@ -18,11 +18,11 @@ ul.pagenav_list{
   list-style-image: url("/assets/page.png");
   font-size:14px;
 }
-ul.pagenav_list a
+ul.pagenav_list a{
   color:#566e8b;
   border-bottom: none;
 }
-ul.pagenav_list a:hover
+ul.pagenav_list a:hover{
   color:#4a8eff;
   border-bottom: none;
 }
