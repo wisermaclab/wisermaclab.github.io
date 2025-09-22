@@ -4,12 +4,13 @@
 
 .columns_page {
   display: flex;
-  gap: 40px;
+  gap: 60px;
 }
 
 .column_nav {
   flex: 1;
   position: sticky;
+  align-self: start;
 }
 .column_content {
   flex: 4;
