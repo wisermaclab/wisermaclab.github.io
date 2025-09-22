@@ -17,6 +17,16 @@
 .pagenav_list{
   list-style-image: url("/assets/page.png");
 }
+
+h1.page_title {
+  color:#3f5876;
+  font-weight:600;
+}
+
+h1.header_h1{
+  color:#222;
+  font-weight:600;
+}
 @media print, screen and (max-width: 960px) {
 
 
