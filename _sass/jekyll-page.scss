@@ -41,6 +41,9 @@ ol.page_guide a{
    display: inline-block;
 }
 
+ol.page_guide a:hover,a:focus{
+   color: #4a8eff;
+}
 @media print, screen and (max-width: 960px) {
 
 
