@@ -33,7 +33,13 @@ h1.page_title {
   color:#3f5876;
   font-weight:600;
 }
-
+ol.page_guide a{
+   text-decoration: none;
+   color: #566e8b;
+   font-weight: 600;
+   line-height: 1.6;
+   display: inline-block;
+}
 
 @media print, screen and (max-width: 960px) {
 
