@@ -25,11 +25,10 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
     <li><a>Boyu Jiang</a></li>
   </ol>
 <h1 id="Research"> Research </h1>
-<h2> Robust Vital Sign Monitoring using mmWave Radars </h2>
+<h2> Pi-ViMo: Physiology-inspired Robust Vital Sign Monitoring using mmWave Radars </h2>
 
-Overall, mmwave radars typically span 30GHz up to 300GHz with wavelength in the scale of millimeters. This implies range resolutions as high as 3cm. Additionally, the received reflected signals are suitable for detecting small-scale periodic movements such as those from respiration and heart beats.
+ Continuous monitoring of human vital signs using non-contact mmWave radars is attractive due to their ability to penetrate garments and operate under different lighting conditions. Unfortunately, most prior research requires subjects to stay at a fixed distance from radar sensors and to remain still during monitoring. These restrictions limit the applications of radar vital sign monitoring in real life scenarios. In this work, we address these limitations and present Pi-ViMo, a non-contact Physiology-inspired Robust Vital Sign Monitoring system, using mmWave radars. We first derive a multi-scattering point model for the human body, and introduce a coherent combining of multiple scatterings to enhance the quality of estimated chest-wall movements. It enables vital sign estimations of subjects at any location in a radar's field of view (FoV). We then propose a template matching method to extract human vital signs by adopting physical models of respiration and cardiac activities. The proposed method is capable to separate respiration and heartbeat in the presence of micro-level random body movements (RBM) when a subject is at any location within the field of view of a radar
 
-We will utilize primarily two types of broadband technologies, namely, mmWave radar and UWB-based radar. The projects are expected to not only advance the state-of-the-art in algorithmic design for non-contact RF sensing but also develop proof-of-concept prototypes and demonstrative applications.
 <h1 id="Downloads"> Downloads </h1>
 <h1 id="Acknowledgment"> Acknowledgment </h1>
 
