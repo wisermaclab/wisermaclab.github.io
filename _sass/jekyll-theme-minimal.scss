@@ -48,16 +48,18 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-ul.a:hover, ul.a:focus {
-  color:#069;header {
+ul a:hover, ul a:focus {
+  color:#069;
+  font-weight: bold;
+}
+  header {
   width:270px;word-wrap:break-word;
   margin-left: 300px;
   float:left;
   position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-  font-weight: bold;
-}
+
 
 a small {
   font-size:11px;
