@@ -60,12 +60,10 @@ ol.name_list{
 p.content_text{
   flex: 2;
 }
-.content_block img{ 
-  height: auto;
-  object-fit: contain;/* optional: contain within its box */
-  flex: 1 1 0;        /* let it grow and shrink */
-  align-self: flex-start; /* stop it from stretching vertically */
+.content_block .content_img{
+  flex: 1;
 }
+  
 @media print, screen and (max-width: 960px) {
 
 
