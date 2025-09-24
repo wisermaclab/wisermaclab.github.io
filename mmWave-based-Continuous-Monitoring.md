@@ -24,7 +24,7 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
     <li><a>Zimeng Zhou</a></li>
     <li><a>Boyu Jiang</a></li>
   </ol>
-<h1 id="Research"> Research </h1>
+<h1 id="Research"> Research Thrusts </h1>
 
 <h2> Pi-ViMo: Physiology-inspired Robust Vital Sign Monitoring using mmWave Radars </h2>
 <div class='content_block'>
@@ -45,6 +45,13 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
   <div class='content_img'>
   <img src="/assets/mmwave_pic/SUPER_img.png" />
  </div>
+</div>
+
+<h2>Quantitative Assessment of mmWave Point Cloud for Target Detection</h2>
+<div class='content_img'>
+ <p>
+  This study focuses on developing quantifiable metrics to evaluate point cloud quality for human targets. The metrics are composed of two parts, coverage and consistency. Coverage tests employ Euclidean distance to quantify errors between the ground truth human mesh and the point cloud. Additionally, the coverage test evaluates the percentage of points reflected from each body segment. The second focus is on consistency. Point clouds consistency across consecutive frames are assessed by analyzing the standard deviation of mean and maximum intensity values and calculating Hausdorff distances to evaluate the stability of the point cloud distribution.
+ </p>
 </div>
 <h1 id="Downloads"> Downloads </h1>
 <h1 id="Acknowledgment"> Acknowledgment </h1>
