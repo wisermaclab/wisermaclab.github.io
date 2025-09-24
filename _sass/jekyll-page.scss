@@ -65,7 +65,12 @@ ol.name_list{
 }
   
 @media print, screen and (max-width: 960px) {
-
+.columns_page {
+  display: block;
+  }
+.column_nav {
+  display:none;
+  }
 
 }
 
