@@ -62,7 +62,9 @@ p.content_text{
 }
 .content_block img{ 
   height: auto;
-  flex:1;
+  object-fit: contain;/* optional: contain within its box */
+  flex: 1 1 0;        /* let it grow and shrink */
+  align-self: flex-start; /* stop it from stretching vertically */
 }
 @media print, screen and (max-width: 960px) {
 
