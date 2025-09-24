@@ -13,7 +13,7 @@
       <li><a href="#Pi-ViMo">Pi-ViMo</a></li>
       <li><a href="#SUPER">SUPER</a></li>
       <li><a href="#Assessment">Quantitative Assessment</a></li>
-     </ol
+     </ol>
       </li>
     <li><a href="#Downloads">Downloads</a></li>
     <li><a href="#Acknowledgment">Acknowledgment</a></li>
