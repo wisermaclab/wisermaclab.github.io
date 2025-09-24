@@ -60,7 +60,7 @@ ol.name_list{
 p.content_text{
   flex: 2;
 }
-div.content_img{
+.content_block img{ 
   flex:1;
 }
 @media print, screen and (max-width: 960px) {
