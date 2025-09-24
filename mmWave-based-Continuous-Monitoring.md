@@ -28,7 +28,7 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
 
 <h2> Pi-ViMo: Physiology-inspired Robust Vital Sign Monitoring using mmWave Radars </h2>
 <div class='content_block'>
-  <p class='content_text'>
+  <p>
  Continuous monitoring of human vital signs using non-contact mmWave radars is attractive due to their ability to penetrate garments and operate under different lighting conditions. Unfortunately, most prior research requires subjects to stay at a fixed distance from radar sensors and to remain still during monitoring. These restrictions limit the applications of radar vital sign monitoring in real life scenarios. In this work, we address these limitations and present Pi-ViMo, a non-contact Physiology-inspired Robust Vital Sign Monitoring system, using mmWave radars. We first derive a multi-scattering point model for the human body, and introduce a coherent combining of multiple scatterings to enhance the quality of estimated chest-wall movements. It enables vital sign estimations of subjects at any location in a radar's field of view (FoV). We then propose a template matching method to extract human vital signs by adopting physical models of respiration and cardiac activities. The proposed method is capable to separate respiration and heartbeat in the presence of micro-level random body movements (RBM) when a subject is at any location within the field of view of a radar
   </p>
  <div class='content_img'>
