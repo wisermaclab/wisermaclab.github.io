@@ -61,6 +61,7 @@ p.content_text{
   flex: 2;
 }
 .content_block img{ 
+  height: auto;
   flex:1;
 }
 @media print, screen and (max-width: 960px) {
