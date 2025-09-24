@@ -24,6 +24,14 @@ p, ul, ol, table, pre, dl {
 
   margin:0 0 20px;
 }
+ol {
+  counter-reset: item;
+}
+li:before {
+  content: counters(item, ".") " ";
+  counter-increment: item;
+}
+
 ul{
   font-size:20px;
 }
