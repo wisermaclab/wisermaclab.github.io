@@ -71,7 +71,9 @@ ol.name_list{
 .column_nav {
   display:none;
   }
-
+.content_bloack{
+  flex-direction: column
+  }
 }
 
 @media print, screen and (max-width: 720px) {
