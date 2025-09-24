@@ -10,7 +10,7 @@
     <li><a href="#Participant">Participant</a></li>
     <li><a href="#Research">Research Thrusts</a></li>
     <li><a href="#Downloads">Downloads</a></li>
-    <li><a href="#Acknowledgment">Publications</a></li>
+    <li><a href="#Acknowledgment">Acknowledgment</a></li>
     
   </ol>
 </div>
