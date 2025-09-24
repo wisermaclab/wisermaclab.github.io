@@ -51,6 +51,17 @@ ol.name_list a{
 ol.name_list{
       margin: 0 0 10px;
 }
+.content_block{
+  display: flex;
+  gap: 10px;
+  padding-bottom: 20px;
+}
+p.content_text{
+  flex: 2;
+}
+div.content_img{
+  flex:1;
+}
 @media print, screen and (max-width: 960px) {
 
 
