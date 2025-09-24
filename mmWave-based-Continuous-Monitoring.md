@@ -39,6 +39,10 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
 <h2>SUPER: Seated Upper Body Pose Estimation using mmWave Radars</h2>
 <div class='content_block'>
  In industrial countries, adults spend a considerable amount of time sedentary each day at work, driving and during activities of daily living. Characterizing the seated upper body human poses using mmWave radars is an important, yet under-studied topic with many applications in human-machine interaction, transportation and road safety. In this work, we devise SUPER, a framework for seated upper body human pose estimation that utilizes dual-mmWave radars in close proximity. A novel masking algorithm is proposed to coherently fuse data from the radars to generate intensity and Doppler point clouds with complementary information for high-motion but small radar cross section areas (e.g., upper extremities) and low-motion but large RCS areas (e.g. torso). A lightweight neural network extracts both global and local features of upper body and output pose parameters for the Skinned Multi-Person Linear (SMPL) model.
+
+  <div class='content_img'>
+  <img src="/assets/mmwave_pic/SUPER_img.png" />
+ </div>
 </div>
 <h1 id="Downloads"> Downloads </h1>
 <h1 id="Acknowledgment"> Acknowledgment </h1>
