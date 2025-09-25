@@ -34,7 +34,9 @@ ol li:before {
 ol li {
   display: block
 }
-
+ol ol{
+  margin: 0 0 0px;
+}
 ul{
   font-size:20px;
 }
