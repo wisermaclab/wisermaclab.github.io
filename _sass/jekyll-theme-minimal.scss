@@ -27,7 +27,7 @@ p, ul, ol, table, pre, dl {
 ol {
   counter-reset: item;
 }
-li:before {
+ol li:before {
   content: counters(item, ".") " ";
   counter-increment: item;
 }
