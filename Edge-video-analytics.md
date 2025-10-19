@@ -60,7 +60,7 @@ Edge computing enables rapid video analytics by processing data closer to the so
   Tracking people in multi-camera surveillance systems is challenging due to disparate perspectives, large volumes of data, and high computation demands. This paper presents a distributed cooperative pipeline for pedestrian tracking that exploits the spatial and temporal redundancy within and across the video feeds from multiple synchronized cameras. It consists of three key components: 1) a lightweight policy network trained online in a self-supervised manner on each camera, 2) a sparse backbone processing unit purpose-built for parallel processing of selected regions of all cameras, and 3) an online clustering algorithm for object association. Utilizing online distributed reinforcement learning, the fully end-to-end trainable pipeline can accelerate any tracking-by-detection method by reducing detection costs across multiple perspectives. MVSparse has been evaluated using two multi-camera multi-target pedestrian tracking datasets, WildTrack and MultiviewX. It reduces the amount of processed regions by up to 52% and 39% with only moderate degradation of 1% and 0.1% in tracking accuracy on the two datasets, respectively. On a real-world testbed comprising four NVIDIA Jetson TX2 and a GPU server, MVSparse accelerates the end-to-end process and reduces the communication overheads by 1.88 and 1.60 X with only 2.27% and 3.17% degradation in tracking accuracy on the two datasets, respectively.
  </p>
 
-   <div class='content_img'>
+  <div class='content_img'>
   <img src="/assets/eva_pic/MVSparse.png" />
  </div>
 </div>
@@ -70,7 +70,8 @@ Edge computing enables rapid video analytics by processing data closer to the so
  <p>
   Multi-object tracking (MOT) is the “killer app” of edge video analytics. Deploying MOT pipelines for live video analytics poses a significant system challenge due to their computation-intensive nature. In this paper, we propose FastTuner, a model-agnostic framework that aims to accelerate MOT pipelines by adapting frame resolutions and backbone models. Unlike prior works that utilize a separate and time-consuming online profiling procedure to identify the optimal configuration, FastTuner incorporates multi-task learning to perform configuration selection and object tracking through a shared model. Multi-resolution training is employed to further improve the tracking accuracy across different resolutions. Furthermore, two workload placement schemes are designed for the practical deployment of FastTuner in edge video analytics systems. Extensive experiments demonstrate that FastTuner can achieve 1.1%–9.2% higher tracking accuracy and 2.5%–25.5% higher speed compared to the state-of-the-art methods, and accelerate end-to-end processing by 1.7%–22.5% in a real-world testbed consisting of an embedded device and an edge server.
  </p>
-    <div class='content_img'>
+ 
+  <div class='content_img'>
   <img src="/assets/eva_pic/FastTuner.png" />
  </div>
 </div>
@@ -80,7 +81,8 @@ Edge computing enables rapid video analytics by processing data closer to the so
  <p>
   Latency-sensitive edge video analytics applications require rapid responses for real-time decision-making, driving the demand for efficient object detection pipelines. Conventional pipelines transmit and process full frames, overlooking redundancy in videos and leading to unnecessary resource consumption. Existing block-wise conditional execution methods mitigate this issue by processing only informative blocks. However, they treat all informative blocks equally and fail to further categorize these blocks. To address this limitation, we propose BlockHybrid, an edge video analytics framework designed to accelerate object detection pipelines by hybrid block-wise execution. Specifically, BlockHybrid classifies blocks into hard or easy blocks using a policy network. Hard blocks are transmitted and processed by a block-wise detector on the server, while easy blocks are handled by an efficient tracker locally on the camera, reducing redundant computation and communication. Extensive experiments demonstrate that BlockHybrid can achieve 8.8%–31.5% higher local execution speed and comparable detection accuracy compared to state-ofthe-art methods, and accelerate end-to-end processing—including camera-to-server communication—by 31.5%–39.1% in a real-world testbed.
  </p>
-     <div class='content_img'>
+ 
+  <div class='content_img'>
   <img src="/assets/eva_pic/BlockHybrid.png" />
  </div>
 </div>
@@ -90,7 +92,8 @@ Edge computing enables rapid video analytics by processing data closer to the so
  <p>
   We propose SEED, an End-to-End Selective execution framework for transformer-based object Detection. SEED accelerates vision transformer (ViT)-based detection pipelines in edge video analytics systems by allocating computation to informative blocks (IBs) while lightly processing non-IBs. It consists of a lightweight and decoupled decision network for real-time IB selection, and a block-wise ViT detector for selective inference. To demonstrate SEED's versatility, we implement two variants: SEED-TR, which reuses cached features for non-IBs, and SEED-EE, which terminates inference early for non-IBs. To enable optimal coordination between block selection and execution, we introduce a three-stage training strategy with pseudo-label supervision, allowing joint optimization of both networks. We evaluate SEED on two public benchmark datasets and a real-world edge video analytics testbed. Experimental results show that SEED-TR and SEED-EE accelerate execution by up to 75.5% and 57.4% on the benchmarks, and reduce end-to-end latency by up to 74.0% and 57.7% on the testbed, respectively, while maintaining detection accuracy comparable to full-frame inference.
  </p>
-      <div class='content_img'>
+ 
+  <div class='content_img'>
   <img src="/assets/eva_pic/SEED.png" />
  </div>
 </div>
