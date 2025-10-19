@@ -62,6 +62,7 @@ Edge computing enables rapid video analytics by processing data closer to the so
 
    <div class='content_img'>
   <img src="/assets/eva_pic/MVSparse.png" />
+ </div>
 </div>
 
 <h2 id = 'FastTuner'>FastTuner: Fast Resolution and Model Tuning for Multi-Object Tracking in Edge Video Analytics</h2>
@@ -71,6 +72,7 @@ Edge computing enables rapid video analytics by processing data closer to the so
  </p>
     <div class='content_img'>
   <img src="/assets/eva_pic/FastTuner.png" />
+ </div>
 </div>
 
 <h2 id = 'BlockHybrid'>BlockHybrid: Accelerating Object Detection Pipelines With Hybrid Block-Wise Execution</h2>
@@ -80,6 +82,7 @@ Edge computing enables rapid video analytics by processing data closer to the so
  </p>
      <div class='content_img'>
   <img src="/assets/eva_pic/BlockHybrid.png" />
+ </div>
 </div>
 
 <h2 id = 'SEED'>SEED: An End-to-End Selective Execution Framework for Transformer-Based Object Detection in Edge Video Analytics</h2>
@@ -89,6 +92,7 @@ Edge computing enables rapid video analytics by processing data closer to the so
  </p>
       <div class='content_img'>
   <img src="/assets/eva_pic/SEED.png" />
+ </div>
 </div>
 <h1 id="Downloads"> Downloads </h1>
 <h1 id="Acknowledgment"> Acknowledgment </h1>
