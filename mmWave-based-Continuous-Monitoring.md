@@ -17,6 +17,7 @@
       </li>
     <li><a href="#Downloads">Downloads</a></li>
     <li><a href="#Acknowledgment">Acknowledgment</a></li>
+    <li><a href="#Publication">Publication</a></li>
     
   </ol>
 </div>
@@ -61,4 +62,8 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
 </div>
 <h1 id="Downloads"> Downloads </h1>
 <h1 id="Acknowledgment"> Acknowledgment </h1>
-
+<h1 id="Publication"> Publication </h1>
+<div class='pub_info'>
+ <p>Boyu Jiang, Rong Zheng</p>
+ <p><a href="https://wiser.cas.mcmaster.ca/?journal_article=quantitative-assessment-of-mmwave-point-cloud-for-target-detection-2">Quantitative Assessment of mmWave Point Cloud for Target Detection</a></p>
+</div>
