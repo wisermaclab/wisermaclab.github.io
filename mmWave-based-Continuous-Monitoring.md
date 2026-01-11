@@ -63,11 +63,11 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
 <h1 id="Downloads"> Downloads </h1>
 <h1 id="Acknowledgment"> Acknowledgment </h1>
 <h1 id="Publication"> Publication </h1>
-<div class='pub_info'>
- <p>Zhang, Bo; Zhou, Zimeng; Jiang, Boyu; Zheng, Rong</p>
- <p><a href="https://ieeexplore.ieee.org/document/10562158">SUPER: Seated Upper Body Pose Estimation using mmWave Radars</a></p>
-</div>
-<div class='pub_info'>
- <p>Boyu Jiang, Rong Zheng, <a href="https://dl.acm.org/doi/abs/10.1145/3722570.3726896">Quantitative Assessment of mmWave Point Cloud for Target Detection</a>, HumanSys '25: Proceedings of the 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems, 2025</p>
- <p></p>
-</div>
+
+<p>Zhang Bo, Jiang Boyu, Zheng Rong, Zhang Xiaoping, Li Jun and Xu Qian. <a href="https://dl.acm.org/doi/10.1145/3589347">Pi-ViMo: Physiology-inspired Robust Vital Sign Monitoring using mmWave Radars</a>, ACM Transactions on Internet of Things, Volume 4, Issue 2, 2023</p>
+
+<p>Zhang Bo, Zhou Zimeng, Jiang Boyu and Zheng Rong. <a href="https://ieeexplore.ieee.org/document/10562158">SUPER: Seated Upper Body Pose Estimation using mmWave Radars</a>, IEEE/ACM Ninth International Conference on Internet-of-Things Design and Implementation (IoTDI), 2024</p>
+
+<p>Jiang Boyu, Zheng Rong. <a href="https://dl.acm.org/doi/abs/10.1145/3722570.3726896">Quantitative Assessment of mmWave Point Cloud for Target Detection</a>, HumanSys: Proceedings of the 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems, 2025</p>
+
+
