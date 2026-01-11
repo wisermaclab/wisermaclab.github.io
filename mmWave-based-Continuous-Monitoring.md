@@ -68,6 +68,6 @@ Non-contact sensing for vital signs and human activities utilizing wireless sign
  <p><a href="https://ieeexplore.ieee.org/document/10562158">SUPER: Seated Upper Body Pose Estimation using mmWave Radars</a></p>
 </div>
 <div class='pub_info'>
- <p>Boyu Jiang, Rong Zheng</p>
- <p><a href="https://dl.acm.org/doi/abs/10.1145/3722570.3726896">Quantitative Assessment of mmWave Point Cloud for Target Detection</a></p>
+ <p>Boyu Jiang, Rong Zheng, <a href="https://dl.acm.org/doi/abs/10.1145/3722570.3726896">Quantitative Assessment of mmWave Point Cloud for Target Detection</a>, HumanSys '25: Proceedings of the 3rd International Workshop on Human-Centered Sensing, Modeling, and Intelligent Systems, 2025</p>
+ <p></p>
 </div>
