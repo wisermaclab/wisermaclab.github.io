@@ -20,6 +20,7 @@
       </li>
     <li><a href="#Downloads">Downloads</a></li>
     <li><a href="#Acknowledgment">Acknowledgment</a></li>
+    <li><a href="#Publication">Publication</a></li>
     
   </ol>
 </div>
@@ -99,4 +100,9 @@ Edge computing enables rapid video analytics by processing data closer to the so
 </div>
 <h1 id="Downloads"> Downloads </h1>
 <h1 id="Acknowledgment"> Acknowledgment </h1>
-
+<h1 id="Publication"> Publication </h1>
+<p>Nalaie Keivan, Xu Renjie, Zheng Rong. <a href="https://ieeexplore.ieee.org/document/9797408">DeepScale: Online Frame Size Adaptation for Multi-object Tracking on Smart Cameras and Edge Servers</a>, IEEE/ACM Seventh International Conference on Internet-of-Things Design and Implementation (IoTDI), pp. 67-79, 2022</p>
+<p>Nalaie Keivan, Zheng Rong. <a href="https://openaccess.thecvf.com/content/WACV2023/papers/Nalaie_AttTrack_Online_Deep_Attention_Transfer_for_Multi-Object_Tracking_WACV_2023_paper.pdf">AttTrack: Online Deep Attention Transfer for Multi-Object Tracking </a>, In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 1654-1663, 2023</p>
+<p>Nalaie Keivan, Zheng Rong. <a href="https://arxiv.org/abs/2312.15858">Learning Online Policies for Person Tracking in Multi-View Environments </a>, 2023</p>
+<p>Nalaie Keivan, Zheng Rong. <a href="https://ieeexplore.ieee.org/abstract/document/10672616">MVSparse: Distributed Cooperative Multi-camera Multi-target Tracking on the Edge</a> IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), 2024</p>
+<p>Nalaie Keivan, Xu Renjie, Zheng Rong. <a href="https://ieeexplore.ieee.org/abstract/document/10829592">FastTuner: Fast Resolution and Model Tuning for Multi-Object Tracking in Edge Video Analytics</a>, IEEE Transactions on Mobile Computing, 2025</p>
