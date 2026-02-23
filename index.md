@@ -9,7 +9,7 @@
   <li><a href="https://wisermaclab.github.io/mmWave-based-Continuous-Monitoring" target="_blank">mmWave-based Continuous Monitoring</a></li>
   <li><a href="https://wisermaclab.github.io/Edge-video-analytics" target="_blank">Edge video analytics</a></li>
   <li><a href="https://wisermaclab.github.io/Multi-modal-human-motion-synthesizing-and-understanding" target="_blank">Multi-modal human motion synthesizing and understanding</a></li>
-  <li><a href="https://wisermaclab.github.io/RAG-older-adult-mobility" target="_blank">RAG for older adult mobility and health information</a></li>
+  <li><a href="https://wisermaclab.github.io/RAG-older-adult-mobility.html" target="_blank" rel="noopener noreferrer">RAG for older adult mobility and health information</a></li>
 </ul>
   </div>
   </div>
